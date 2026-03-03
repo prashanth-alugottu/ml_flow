@@ -1,0 +1,7 @@
+mlflow==3.9.0
+datasets==4.5.0
+transformers==5.1.0
+scikit-learn==1.8.0
+tqdm==4.67.3
+boto3==1.42.48
+awscli==1.44.38
